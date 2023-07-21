@@ -6,19 +6,19 @@ on:
       SYNC_URL:
         description: 'SYNC_URL'
         required: true
-        default: 'https://gitlab.com/OrangeFox/sync.git'
+        default: 'https://github.com/OrangeFoxRecovery/device_xiaomi_sweet.git'
       MANIFEST_BRANCH:
         description: 'MANIFEST_BRANCH'
         required: true
-        default: '12.1'
+        default: 'fox_11.0'
       DEVICE_TREE_URL:
         description: 'DEVICE_TREE_URL'
         required: true
-        default: 'https://github.com/mahajant99/device_xiaomi_sweet'
+        default: 'https://github.com/Ipeng13/device_xiaomi_sweet'
       DEVICE_TREE_BRANCH:
         description: 'DEVICE_TREE_BRANCH'
         required: true
-        default: 'fox_12.1'
+        default: 'fox_11.0'
       DEVICE_PATH:
         description: 'DEVICE_PATH'
         required: true
